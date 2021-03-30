@@ -1,6 +1,6 @@
-# Replace with recipe name
+# Scrambled eggs and pancakes
 
-## Servings: 
+## Servings: 4
 
 ## Time to prepare: 
 
