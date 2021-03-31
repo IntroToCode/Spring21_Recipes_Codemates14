@@ -2,9 +2,9 @@
 
 ## Servings: 4
 
-## Time to prepare: 
+## Time to prepare: 20 minutes
 
-## Ingredients:
+## Ingredients: Four eggs, butter pancake mix, water 
 
 
 ## Equipment needed: 
