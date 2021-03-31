@@ -2,9 +2,13 @@
 
 ## Servings: 4
 
-## Time to prepare: 
+## Time to prepare: 20 mins
 
-## Ingredients:
+## Ingredients: 
+
+Shrimp
+Flour Tortilla
+Onion
 
 
 ## Equipment needed:
