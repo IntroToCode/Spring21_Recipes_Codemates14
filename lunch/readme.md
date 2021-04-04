@@ -6,24 +6,24 @@
 
 ## Ingredients: 
 
-Shrimp
-Flour Tortilla
-Onion
+1. Shrimp
+2. Flour Tortilla
+3. Onion
 
 
 ## Equipment needed:
 
-Frying pan
-Cooking spatula
-Small knife
+1. Frying pan
+2. Cooking spatula
+3. Small knife
 
 ## Steps for preparation:
 
-Wash shrimp
-Chop onions
-Heat tortillas on frying pan, remove once light brown and crispy
-Sautee shrimp and chopped onions until golden brown
-Assemble tacos
+1. Wash shrimp
+2. Chop onions
+3. Heat tortillas on frying pan, remove once light brown and crispy
+4. Sautee shrimp and chopped onions until golden brown
+5. Assemble tacos
 
 ### Notes:
 
