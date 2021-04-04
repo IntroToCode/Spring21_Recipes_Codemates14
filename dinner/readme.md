@@ -1,17 +1,18 @@
-# Replace with recipe name
+# Steak and Fries
 
-## Servings: 
+## Servings: 4
 
-## Time to prepare: 
+## Time to prepare: 45 minutes
 
-## Ingredients:
+## Ingredients: 4 oz Wagyu Ribeye Steaks, 2 tbsp of butter, 4 potatoes
 
 
 ## Equipment needed: 
 
-deep frying pan, cast iron skillet
+Electric grill, knives, spoon, curring board, pan
 
-## Steps for preparation:
+
+## Steps for preparation: 
 
 French Fries:
 1. Slice the potatoes
@@ -24,4 +25,4 @@ French Fries:
 
 
 
-### Codemates #
+### Codemates # Candice Ke Claro Vo Jordan Woodall David Bolivar
