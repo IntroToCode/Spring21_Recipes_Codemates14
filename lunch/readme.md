@@ -30,3 +30,4 @@
 If shrimp is frozen, will need to be defrosted by running it under cold water first. 
 
 ### Codemates #
+Candice Ke, Claro Vo, Jordan Woodall, David Bolivar
