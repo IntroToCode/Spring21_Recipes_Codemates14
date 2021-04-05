@@ -4,7 +4,9 @@
 
 ## Time to prepare: 45 minutes
 
-## Ingredients: 4 oz Wagyu Ribeye Steaks, 2 tbsp of butter, 4 potatoes
+## Ingredients: 
+
+4 oz Wagyu Ribeye Steaks, 2 tbsp of butter, 4 potatoes, oil
 
 
 ## Equipment needed: 
@@ -13,6 +15,12 @@ Electric grill, knives, spoon, curring board, pan
 
 
 ## Steps for preparation: 
+
+Steak: 
+1. Heat the pan 
+2. Melt butter on the pan 
+3. Put ribeye steak on the pan for 4 minutes, flip to other side and cook for another 4 minutes 
+4. Slice through middle to see desired color and enjoy
 
 French Fries:
 1. Slice the potatoes
